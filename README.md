@@ -14,7 +14,7 @@ what i've discovered in my coding journey thus far:
 this is not an exhaustive list, but i hope it conveys the basics about me.
 
 ## currently working on
-shipping a project every 5 days
+shipping a project every 5 days.
 
 __current lineup__
 1. ez-query
@@ -34,4 +34,5 @@ __current lineup__
   
 ## get in touch
 contact me through [email](mailto:contact@samardh.space)
+
 always happy to hear from people!

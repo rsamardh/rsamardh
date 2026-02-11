@@ -11,7 +11,7 @@ however, i am not a doomer in terms of technological progress. i believe that we
 
 that being said, i believe that change is possible. beginning with small, meaningful projects that expect little to nothing in return. 
 
-it starts with bootstrapping and refusing to IPO to protect your values from vulturous venture capitalists sucking the life out of your company as it grows. it starts with nodding and going "okay, good work everyone" after the fiscal report shows no improvement from last year (because *why* again did you start this company? for unreasonable expectations of constant proit growth? or to make an impact?).
+it starts with bootstrapping and refusing to IPO to protect your values from vulturous venture capitalists sucking the life out of your company as it grows. it starts with nodding and going "okay, good work everyone" after the fiscal report shows no improvement from last year (because *why* again did you start this company? for unreasonable expectations of constant profit growth? or to make an impact?).
 
 at which point do we accept that we've done enough? at which point does an excellent performance review lead to a raise?
 

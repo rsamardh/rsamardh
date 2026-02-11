@@ -1,4 +1,4 @@
-## mini-manifesto on AI usage and business ethics
+## my philosophy on AI usage and business ethics
 using AI will just kill my own ability to think. as a philosophically inclined person, i believe that i shouldn't skimp out on doing the things that make it cool to be human. 
 
 this is my anti-generative AI pledge, and a snippet of my vision for a more ethical free market.

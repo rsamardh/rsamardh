@@ -14,6 +14,7 @@ this is not an exhaustive list, but i hope it conveys the basics about me.
 
 ## currently working on
 shipping a project every 5 days
+
 __current lineup__
 1. ez-query
    - interact with your csv files dynamically

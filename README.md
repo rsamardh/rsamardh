@@ -1,5 +1,5 @@
-## hey there
-my name is samardh/sam. i'm a trans guy from hyderabad who likes to code and organize stuff.
+## hey there 👋
+my name is samardh. i'm a trans guy from hyderabad who likes to code and organize stuff.
 
 what i've discovered in my coding journey thus far:
 - i like working with data (csv and sql so far) using python

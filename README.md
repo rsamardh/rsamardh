@@ -10,6 +10,7 @@ what i've discovered in my coding journey thus far:
 - i dislike venture capital & startup culture
 - i like user-focused operational pipelines
 - i dislike predatory softwares and sites
+
 this is not an exhaustive list, but i hope it conveys the basics about me.
 
 ## currently working on

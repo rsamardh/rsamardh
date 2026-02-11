@@ -1,6 +1,8 @@
 ## hey there 👋
 my name is samardh. i'm a trans guy from hyderabad who likes to code and organize stuff.
 
+read my "manifesto" (dunno if i should call it that) on AI, startup culture, and corporate accountability [here](./manifesto.md)
+
 what i've discovered in my coding journey thus far:
 - i like working with data (csv and sql so far) using python
 - i dislike frontend development.

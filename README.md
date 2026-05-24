@@ -16,10 +16,9 @@ what i've discovered in my coding journey thus far:
 this is not an exhaustive list, but i hope it conveys the basics about me.
 
 ## currently working on
-shipping a project every 5 days.
 
 __current lineup__
-1. ez-query
+1. csv2sqlite
    - interact with your csv files dynamically
    - customizable sort/filter system & form-like editors
    - inject your own scripts
